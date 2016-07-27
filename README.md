@@ -5,7 +5,7 @@ This describes the resources that make up the official Business Clúster API. If
 ## Overview
 
 1. [Schema](#schema).
-2. [Parameters](#root-endpoint).
+2. [Parameters](#parameters).
 3. [Root endpoint](#root-endpoint).
 4. [HTTP Verbs](#http-verbs).
 5. [Authentication](#authentication).
